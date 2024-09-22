@@ -2,6 +2,7 @@
 
 - [amazon](https://simpleicons.org/?q=amazon)
 - [anilist](https://simpleicons.org/?q=anilist)
+- [bandcamp](https://simpleicons.org/?q=bandcamp)
 - [box](https://simpleicons.org/?q=box)
 - [behance](https://simpleicons.org/?q=behance)
 - [bitbucket](https://simpleicons.org/?q=bitbucket)
